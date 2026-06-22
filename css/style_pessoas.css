@@ -1,0 +1,48 @@
+#geral{
+    width: 500px;
+    min-height: 600px;
+    padding: 10px;
+    margin: 20px auto;
+    font-family: Verdana;
+}
+
+h3{
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: #a68fcc;
+}
+
+#div-form-pessoa, #div-lista-pessoas{
+    width: 100%;
+    padding: 5xp;
+    margin: 20px 0px;
+    background-color: #b1a0cc;
+    color: #7b5385;
+}
+
+#form-pessoa{
+    padding: 15px;
+    font-size: 1.2em
+}
+
+label,input{
+    display: block;
+    margin: 15px 0px;
+}
+
+input{
+    width: 460px;
+    height: 30px;
+}
+
+button{
+    width: 230px;
+    height: 30px;
+}
+
+#div-lista-pessoas{
+    width: 100%;
+    min-height: 450px;
+    color: #ffffff;
+}
