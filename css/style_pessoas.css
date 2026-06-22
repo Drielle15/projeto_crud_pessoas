@@ -13,6 +13,11 @@ h3{
     color: #a68fcc;
 }
 
+p{
+    text-align: center;
+    color: #92589e;
+}
+
 #div-form-pessoa, #div-lista-pessoas{
     width: 100%;
     padding: 5xp;
